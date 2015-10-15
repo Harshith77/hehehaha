@@ -47,6 +47,11 @@
                     <field name="OBJECT">RIGHTFRONT</field>
                   </block>
                 </value>
+                <value name="B">
+                  <block type="math_number" id="156">
+                    <field name="NUM">75</field>
+                  </block>
+                </value>
               </block>
             </value>
             <statement name="DO1">
