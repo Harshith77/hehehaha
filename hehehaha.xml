@@ -21,7 +21,7 @@
                 </value>
                 <value name="B">
                   <block type="math_number" id="42">
-                    <field name="NUM">75</field>
+                    <field name="NUM">70</field>
                   </block>
                 </value>
               </block>
@@ -39,7 +39,7 @@
                 </value>
                 <value name="B">
                   <block type="math_number" id="347">
-                    <field name="NUM">75</field>
+                    <field name="NUM">70</field>
                   </block>
                 </value>
               </block>
@@ -57,7 +57,7 @@
                 </value>
                 <value name="B">
                   <block type="math_number" id="156">
-                    <field name="NUM">75</field>
+                    <field name="NUM">70</field>
                   </block>
                 </value>
               </block>
@@ -75,7 +75,7 @@
                 </value>
                 <value name="B">
                   <block type="math_number" id="282">
-                    <field name="NUM">75</field>
+                    <field name="NUM">70</field>
                   </block>
                 </value>
               </block>
